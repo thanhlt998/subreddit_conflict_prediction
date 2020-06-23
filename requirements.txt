@@ -1,0 +1,4 @@
+pycuda
+scikit-cuda
+numpy
+pandas
